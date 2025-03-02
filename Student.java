@@ -7,7 +7,6 @@ public class Student {
     int standard;
 
     Student(){
-        System.out.println("Constructor envoked");
     }
     //constructor
     Student(int rollNo, int age, String name , String address, int standard){
